@@ -1,4 +1,5 @@
 Hello, This is <Bui Minh Chien>.
+Xin chào, tôi là <Bui Minh Chien>.
 Tôi là sinh viên ngành CNTT.
 Tôi yêu thích công nghệ và học hỏi kỹ năng mới.
 Tôi thích đọc sách, code và du lịch.
@@ -9,3 +10,4 @@ Kế hoạch học tập:
 - Theo dõi kỹ lịch sử commit để hiểu rõ quy trình phát triển phần mềm.
 - Học thêm về GitHub Actions và các công cụ CI/CD cơ bản.
 - Tổng kết lại kiến thức vào cuối tuần để ghi nhớ lâu dài.
+Conflict resolved on <15/10/2025>"
