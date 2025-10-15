@@ -20,3 +20,6 @@ Kế hoạch học tập:
 - Theo dõi kỹ lịch sử commit để hiểu rõ quy trình phát triển phần mềm.
 - Học thêm về GitHub Actions và các công cụ CI/CD cơ bản.
 - Tổng kết lại kiến thức vào cuối tuần để ghi nhớ lâu dài.
+- Thực hành commit, branch, merge
+- Làm bài tập thực hành Git
+- Ôn lại phần revert & stash
