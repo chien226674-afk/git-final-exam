@@ -1,0 +1,6 @@
+Tính năng mới: Quản lý bài học tự động.
+- Hệ thống cho phép người dùng nhập danh sách môn học và thời gian học.
+- Tự động tạo lịch học hằng ngày dựa trên thời gian rảnh của người dùng.
+- Gửi thông báo nhắc nhở khi đến giờ học.
+- Lưu tiến độ học tập và hiển thị thống kê cuối tuần.
+- Giúp người học quản lý thời gian hiệu quả hơn.
