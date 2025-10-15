@@ -3,3 +3,9 @@ Tôi là sinh viên ngành CNTT.
 Tôi yêu thích công nghệ và học hỏi kỹ năng mới.
 Tôi thích đọc sách, code và du lịch.
 Kỹ năng: HTML, CSS, JS, Git.
+Kế hoạch học tập:
+- Dành ít nhất 2 tiếng mỗi ngày để ôn tập và thực hành Git.
+- Hoàn thành toàn bộ các bài tập về branch, merge, revert, stash.
+- Theo dõi kỹ lịch sử commit để hiểu rõ quy trình phát triển phần mềm.
+- Học thêm về GitHub Actions và các công cụ CI/CD cơ bản.
+- Tổng kết lại kiến thức vào cuối tuần để ghi nhớ lâu dài.
