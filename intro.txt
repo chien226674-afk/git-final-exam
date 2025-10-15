@@ -1,4 +1,4 @@
-Xin chào, tôi là Bui Minh Chien.
+Hello, This is <Bui Minh Chien>.
 Tôi là sinh viên ngành CNTT.
 Tôi yêu thích công nghệ và học hỏi kỹ năng mới.
 Tôi thích đọc sách, code và du lịch.
